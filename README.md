@@ -16,11 +16,11 @@ Dataset includes features such as year, mileage, fuel type, condition, etc., col
 ## Results
 | Model | RMSE |
 |-------|------|
-| Linear Regression | 12345 |
-| Ridge | 11234 |
-| Decision Tree | 10234 |
-| Random Forest | 9876 |
-| Gradient Boosting | **8765** (best) |
+| Linear Regression | 12270 |
+| Ridge | 12839 |
+| Decision Tree | 11951 |
+| Random Forest | 13314 |
+| Gradient Boosting | **10770** (best) |
 
 ## How to Run
 1. Download the notebook `project.ipynb`
